@@ -5,6 +5,13 @@ This Dockerfile can build containers capable to use systemd.
 
 [![debian build status](https://img.shields.io/docker/cloud/build/robertdebock/debian.svg)](https://hub.docker.com/repository/docker/robertdebock/debian)
 
+| Runtime                                                                       | Image                                                                                                                                                                                                                                                                                               |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [debian](https://hub.docker.com/r/zasfe/debian/tags)             | ![](https://img.shields.io/github/workflow/status/zasfe/docker-debian-systemd/release%20fc-docker%20images) ![](https://img.shields.io/docker/image-size/zasfe/debian) ![](https://img.shields.io/docker/pulls/zasfe/debian.svg)                   |
+
+
+
+
 Branches
 --------
 
